@@ -23,6 +23,56 @@ Pillow<br>
 Django-crispy-forms<br>
 Internet connection</p>
 
+<h2>Requirements</h2>
+<p>This project requires the following dependencies:</p>
+<pre>
+altgraph==0.17.3
+asgiref==3.5.2
+auto-py-to-exe==2.26.0
+bottle==0.12.23
+bottle-websocket==0.2.9
+cffi==1.15.1
+contourpy==1.0.6
+cycler==0.11.0
+Django==4.1.1
+django-crispy-forms==1.14.0
+django-extensions==3.2.1
+Eel==0.14.0
+et-xmlfile==1.1.0
+fonttools==4.38.0
+future==0.18.2
+gevent==22.10.2
+gevent-websocket==0.10.1
+greenlet==2.0.1
+joblib==1.2.0
+kiwisolver==1.4.4
+matplotlib==3.6.2
+numpy==1.23.3
+openpyxl==3.0.10
+packaging==22.0
+pandas==1.5.2
+pefile==2022.5.30
+Pillow==9.2.0
+pycparser==2.21
+pydot==1.4.2
+pyinstaller==5.7.0
+pyinstaller-hooks-contrib==2022.14
+pyparsing==3.0.9
+python-dateutil==2.8.2
+pytz==2022.6
+pywin32-ctypes==0.2.0
+scikit-learn==1.2.0
+scipy==1.9.3
+six==1.16.0
+sklearn==0.0.post1
+sqlparse==0.4.2
+threadpoolctl==3.1.0
+tzdata==2022.2
+whichcraft==0.6.1
+zope.event==4.6
+zope.interface==5.5.2
+</pre>
+
 <h2>Installation</h2>
 <p>Python: To install Python, visit www.python.org and download the appropriate version for your operating system and processor architecture.</p>
 <p>Django: Install Django by running the following command in your command line:<br>
