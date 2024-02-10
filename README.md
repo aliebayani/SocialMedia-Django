@@ -47,13 +47,12 @@ Internet connection</p>
 <h2>ER Diagram</h2>
 <h2>Preview</h2>
 <p>Include visual representations or previews of key aspects of the project, such as interface designs, user flow diagrams, or system architecture diagrams.</p>
-<img src="images/erd.png" alt="Project Preview" width="1997" height="1508">
-
-<h2>Contributing</h2>
-<p>Provide guidelines for contributing to the project, including how to report issues, submit feature requests, and contribute code. You can also include information about coding standards and pull request procedures.</p>
+<img src="images/erd.png" alt="Project Preview" width="900" height="800">
 
 <h2>License</h2>
-<p>Specify the project's license and include any relevant copyright information.</p>
+<p>This project is licensed under the Apache License, Version 2.0. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+
+<p>© 2022 Ali Bayani</p>
 
 </body>
 </html>
