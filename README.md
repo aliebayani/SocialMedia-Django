@@ -44,7 +44,10 @@ Internet connection</p>
 <h2>Usage</h2>
 <p>When we run the server using the command <code>python manage.py runserver</code>, the home page is loaded for the user. Then, by joining the website, users can like other posts, comment, or share their own posts. By joining the website, an initial profile will be opened for users, which they can later edit and change their profile picture.</p>
 
+<h2>ER Diagram</h2>
 <h2>Preview</h2>
+<p>Include visual representations or previews of key aspects of the project, such as interface designs, user flow diagrams, or system architecture diagrams.</p>
+<img src="images/erd.png" alt="Project Preview" width="1997" height="1508">
 
 <h2>Contributing</h2>
 <p>Provide guidelines for contributing to the project, including how to report issues, submit feature requests, and contribute code. You can also include information about coding standards and pull request procedures.</p>
